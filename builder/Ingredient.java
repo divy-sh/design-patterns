@@ -1,3 +1,5 @@
+package builder;
+
 public enum Ingredient {
     CHEESE,
     PEPPERONI,
