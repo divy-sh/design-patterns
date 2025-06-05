@@ -1,1 +1,1 @@
-A collection of design-patterns, implemented in python.
+A collection of design-patterns, implemented in Java.
