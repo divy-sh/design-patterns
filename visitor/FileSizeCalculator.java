@@ -1,3 +1,5 @@
+package visitor;
+
 class FileSizeCalculator implements FileVisitor {
     int totalSize = 0;
 

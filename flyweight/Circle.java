@@ -1,3 +1,5 @@
+package flyweight;
+
 class Circle implements Shape {
     private final String type = "Circle"; // intrinsic state
 

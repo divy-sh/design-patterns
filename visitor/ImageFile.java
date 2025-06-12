@@ -1,3 +1,5 @@
+package visitor;
+
 class ImageFile implements FileElement {
     String name;
     int resolution;

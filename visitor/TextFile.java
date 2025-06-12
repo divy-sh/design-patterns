@@ -1,3 +1,5 @@
+package visitor;
+
 class TextFile implements FileElement {
     String name;
     int size;
