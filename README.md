@@ -1,4 +1,4 @@
-# A collection of design-patterns, implemented in Java.
+## A collection of design-patterns, implemented in Java.
 
 ## Flyweight Design Pattern
 The Flyweight Design Pattern is a structural design pattern that helps reduce memory usage by sharing as much data as possible with similar objects. It's especially useful when working with a large number of objects that have many shared attributes.
